@@ -56,4 +56,4 @@ The application should now be running on [http://localhost:3000](http://localhos
 - US Geological Survey API
 
 
-- [Your Name](https://github.com/dhanavanthesh)
+- [Dhanavanthesh s](https://github.com/dhanavanthesh)
