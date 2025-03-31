@@ -1,0 +1,58 @@
+.cesium-container {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  
+  .cesium-viewer {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-viewer-cesiumWidgetContainer {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-widget {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-widget canvas {
+    width: 100%;
+    height: 100%;
+  }
+  .cesium-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-viewer {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-viewer-cesiumWidgetContainer {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-widget {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .cesium-widget canvas {
+    width: 100%;
+    height: 100%;
+  }
