@@ -10,10 +10,7 @@ A React application to visualize real-time earthquakes using Cesium and US Geolo
 - Zoom to different continents
 - Responsive design
 
-## Screenshots
 
-### Dashboard Overview
-![Dashboard Overview]()
 
 ### Earthquake Map
 ![Earthquake Map](image1.png)
